@@ -1,3 +1,4 @@
 1 - Wordpress spam messages deleted
 2 - Server rebooted
 3 - lead.masscollabs.xyz has been initialized with New Tick Wordpress theme
+4 - Server rebooted again
