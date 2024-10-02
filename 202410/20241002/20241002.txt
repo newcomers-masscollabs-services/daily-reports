@@ -1,2 +1,5 @@
 1 - Server rebooted
 2 - Server rebooted twice
+3 - Wordpress spam messages deleted
+4 - Wordpress themes updated
+5 - Wordpress plugins updated
