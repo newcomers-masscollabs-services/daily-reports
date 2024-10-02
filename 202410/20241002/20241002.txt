@@ -1,1 +1,2 @@
 1 - Server rebooted
+2 - Server rebooted twice
