@@ -1,3 +1,4 @@
 1 - Wordpress spam messages deleted
 2 - Wordpress plugins updated
 3 - AWS Server terminated
+4 - Wordpress spam messages deleted
