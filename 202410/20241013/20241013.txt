@@ -1,1 +1,2 @@
 1 - Websites are up to date and there are no spam messages
+2 - Wordpress spam messages deleted
