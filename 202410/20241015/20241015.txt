@@ -1,1 +1,2 @@
 1 - Wordpress spam messages deleted
+2 - Wordpress themes updated
