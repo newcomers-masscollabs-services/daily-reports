@@ -1,6 +1,6 @@
 # Daily Reports
 
-Daily Reports for presentations and codes for the newcomers !
+Daily Reports for presentations and codes for the newcomers ! Here we tell what's cooking inside ...
 
 * https://codeberg.org/newcomers/daily-reports
 
