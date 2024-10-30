@@ -1,1 +1,2 @@
 1 - Wordpress spam message deleted
+2 - Wordpress spam messages deleted
