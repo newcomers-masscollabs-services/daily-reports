@@ -1,0 +1,4 @@
+  /home/hwpplayer1/Public/QBnetworks/newcomers-masscollabs-services/daily-reports/202411/20241111:
+  drwxr-xr-x  2 hwpplayer1 hwpplayer1 4096 Nov 11 20:28 .
+  drwxr-xr-x 13 hwpplayer1 hwpplayer1 4096 Nov 11 20:27 ..
+  -rw-r--r--  1 hwpplayer1 hwpplayer1   15 Nov 11 20:28 20241111.txt
