@@ -1,3 +1,14 @@
 1 - no update for now 
 2 - https://birlesik.xyz Wordpress updated to 6.7
 3 - https://lead.masscollabs.xyz Wordpress updated to 6.7
+4 - https://qbnetworks.xyz NewsTick and NewsMunch themes updated
+5 - https://birlesik.xyz NewsTick and NewsMunch themes updated
+6 - https://bilsege.xyz NewsTick and NewsMunch themes updated
+7 - https://godigitalist.xyz/ NewsTick and NewsMunch themes updated
+8 - https://masscollaborationlabs.xyz/ NewsTick and NewsMunch themes updated
+9 - https://amassivus.xyz NewsTick and NewsMunch themes updated
+10 - https://procyberian.xyz/ NewsTick and NewsMunch themes updated
+11 - https://raven.procyberian.xyz NewsTick and NewsMunch themes updated
+12 - https://masscollabs.xyz/ NewsTick and NewsMunch themes updated
+13 - https://lead.masscollabs.xyz/ NewsTick and NewsMunch themes updated
+14 - https://labs.masscollabs.xyz/  NewsTick and NewsMunch themes updated
