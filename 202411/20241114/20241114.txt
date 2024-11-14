@@ -1,2 +1,3 @@
 1 - no update for now 
 2 - https://birlesik.xyz Wordpress updated to 6.7
+3 - https://lead.masscollabs.xyz Wordpress updated to 6.7
