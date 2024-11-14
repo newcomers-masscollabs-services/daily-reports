@@ -12,3 +12,4 @@
 12 - https://masscollabs.xyz/ NewsTick and NewsMunch themes updated
 13 - https://lead.masscollabs.xyz/ NewsTick and NewsMunch themes updated
 14 - https://labs.masscollabs.xyz/  NewsTick and NewsMunch themes updated
+15 - https://blog.masscollabs.xyz/ Update Translations
