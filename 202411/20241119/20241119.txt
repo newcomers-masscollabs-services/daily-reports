@@ -13,3 +13,7 @@
   1/11 - https://security.masscollabs.xyz/
   1/12 - https://openness.masscollabs.xyz/
 
+2 - Akismet Anti-spam: Spam Protection installed for the websites below :
+
+  2/1 - https://blog.masscollabs.xyz/
+  2/2 - https://labs.masscollabs.xyz/
