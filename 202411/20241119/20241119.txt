@@ -33,3 +33,34 @@
   3/12 - https://openness.masscollabs.xyz/
   3/13 - https://blog.masscollabs.xyz/
   3/14 - https://labs.masscollabs.xyz/
+
+4 - NewsMuch and NewsTick themes updated for the websites below :
+
+4/1  - https://qbnetworks.xyz/
+4/2  - https://birlesik.xyz/
+4/3  - https://bilsege.xyz/
+4/4  - https://godigitalist.xyz/
+4/5  - https://masscollaborationlabs.xyz/
+4/6  - https://amassivus.xyz/
+4/7  - https://procyberian.xyz/
+4/8  - https://raven.procyberian.xyz/
+4/9  - https://masscollabs.xyz/
+4/10 - https://lead.masscollabs.xyz/
+4/11 - https://labs.masscollabs.xyz/
+
+5 - Backuply and FileOrganizer plugins updated , SpeedyCachePro plugin deactivated and deleted because we couldn't update it for the website below :
+
+  5/1  - https://qbnetworks.xyz/
+  5/2  - https://birlesik.xyz/ 
+  5/3  - https://bilsege.xyz/ 
+  5/4  - https://godigitalist.xyz/
+  5/5  - https://masscollaborationlabs.xyz/ 
+  5/6  - https://amassivus.xyz/
+  5/7  - https://procyberian.xyz/
+  5/8  - https://raven.procyberian.xyz/
+  5/9  - https://masscollabs.xyz/
+  5/10 - https://lead.masscollabs.xyz/
+  5/11 - https://security.masscollabs.xyz/
+  5/12 - https://openness.masscollabs.xyz/
+  5/13 - https://blog.masscollabs.xyz/
+  5/14 - https://labs.masscollabs.xyz/
