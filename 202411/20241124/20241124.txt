@@ -6,3 +6,7 @@
 1/4 - https://godigitalist.xyz/
 1/5 - https://procyberian.xyz/
 1/6 - https://masscollabs.xyz/
+
+1 - pingback for
+
+https://openness.masscollabs.xyz - https://procyberian.xyz
