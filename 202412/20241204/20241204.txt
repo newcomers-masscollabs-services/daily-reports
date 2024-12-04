@@ -1,0 +1,16 @@
+1 - Classic Editor plugin updated for the websites written below :
+
+1/1  - https://qbnetworks.xyz/
+1/2  - https://birlesik.xyz/
+1/3  - https://bilsege.xyz/
+1/4  - https://godigitalist.xyz/
+1/5  - https://masscollaborationlabs.xyz/
+1/6  - https://amassivus.xyz/
+1/7  - https://procyberian.xyz/
+1/8  - https://raven.procyberian.xyz/
+1/9  - https://masscollabs.xyz/
+1/10 - https://lead.masscollabs.xyz/
+1/11 - https://security.masscollabs.xyz/
+1/12 - https://openness.masscollabs.xyz/
+1/13 - https://blog.masscollabs.xyz/ (Jetpack also)
+1/14 - https://labs.masscollabs.xyz/ (Jetpack also)
