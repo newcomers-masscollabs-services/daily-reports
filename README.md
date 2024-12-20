@@ -2,6 +2,38 @@
 
 Daily Reports for presentations and codes for the newcomers ! Here we tell what's cooking inside ...
 
+## Websites 
+
+* https://qbnetworks.xyz/
+
+* https://birlesik.xyz/
+
+* https://bilsege.xyz/
+
+* https://godigitalist.xyz/
+
+* https://masscollaborationlabs.xyz/
+
+* https://amassivus.xyz/
+
+* https://procyberian.xyz/
+
+* https://raven.procyberian.xyz/
+
+* https://masscollabs.xyz/
+
+* https://lead.masscollabs.xyz/
+
+* https://security.masscollabs.xyz/
+
+* https://openness.masscollabs.xyz/
+
+* https://blog.masscollabs.xyz/
+
+* https://labs.masscollabs.xyz/
+
+## Forges
+
 * https://codeberg.org/newcomers/daily-reports
 
 * https://git.disroot.org/newcomers/daily-reports
