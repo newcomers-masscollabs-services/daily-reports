@@ -40,3 +40,5 @@
 2/14 - https://labs.masscollabs.xyz/
 
 https://blog.masscollabs.xyz/ was already using Libretto theme
+
+4 - Social Media links added for all WordPress websites
