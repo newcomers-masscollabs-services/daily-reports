@@ -1,4 +1,4 @@
-1 - Loginizer plugin update for
+1 - Loginizer plugin update for the websites written below : 
 
 1/1   - https://qbnetworks.xyz/
 1/2   - https://birlesik.xyz/
@@ -14,3 +14,7 @@
 1/12  - https://openness.masscollabs.xyz/
 1/13  - https://blog.masscollabs.xyz/
 1/14  - https://labs.masscollabs.xyz/
+
+2 - spam messages deleted for the websites written below :
+
+1/1  - https://godigitalist.xyz/
