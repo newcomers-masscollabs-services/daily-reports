@@ -32,20 +32,6 @@ Daily Reports for presentations and codes for the newcomers ! Here we tell what'
 
 * https://labs.masscollabs.xyz/
 
-## Forges
-
-* https://codeberg.org/newcomers/daily-reports
-
-* https://git.disroot.org/newcomers/daily-reports
-
-* https://git.vern.cc/newcomers/daily-reports
- 
-* https://git.sr.ht/~mertgor/daily-reports
-
-* https://gitlab.com/masscollabs/newcomers/daily-reports#
-
-* https://github.com/newcomers-masscollabs-services/daily-reports
-
 # License
 
 BSD 3-Clause License
