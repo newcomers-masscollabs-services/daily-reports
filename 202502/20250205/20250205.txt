@@ -23,8 +23,13 @@
 2/11 - https://openness.masscollabs.xyz/
 2/12 - https://blog.masscollabs.xyz/
 2/13 - https://labs.masscollabs.xyz/
+2/14 - https://birlesik.xyz/
 
 3 - Jetpack plugin updated for the websites written below :
 
 3/1  - https://blog.masscollabs.xyz/
 3/2  - https://labs.masscollabs.xyz 
+
+4 -  Translations updated
+
+4/1  - https://blog.masscollabs.xyz/
