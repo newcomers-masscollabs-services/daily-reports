@@ -1,0 +1,5 @@
+1 - no update
+
+We will not write logs after 23 March 2025 because we have been moved our WordPress instances to Publii static websites.
+
+happy hacking !
